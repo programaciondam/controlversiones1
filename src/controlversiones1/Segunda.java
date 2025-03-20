@@ -9,5 +9,8 @@ package controlversiones1;
  * @author profesor
  */
 public class Segunda {
+    public void nada(){
+        System.out.println("te estofy modificando");
+    }
     
 }
